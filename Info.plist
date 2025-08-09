@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAccessibilityUsageDescription</key>
+	<string>此应用需要辅助功能权限来模拟按键操作</string>
+	<key>SScreenCaptureDescription</key>
+	<string>此应用需要屏幕录制权限来进行截屏</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>此应用需要控制其他应用程序来进行自动翻页</string>
+</dict>
+</plist>
