@@ -17,14 +17,6 @@
 
 </div>
 
-或者直接观看嵌入视频：
-
-<div align="center">
-
-https://user-images.githubusercontent.com/yourusername/video-preview.mp4
-
-</div>
-
 > **💡 提示**：视频展示了从截屏设置到PDF生成的完整流程，建议先观看以快速了解工具使用方法。
 
 ---
@@ -222,7 +214,7 @@ ScreenshotTool/
 
 有问题？欢迎：
 - 提交 [Issue](https://github.com/username/ScreenshotTool/issues)
-- 发送邮件至：your-email@example.com
+- 发送邮件至：merlinyang【AT】gmail.com
 - 关注项目获取最新更新
 
 ---
