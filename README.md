@@ -10,22 +10,25 @@
 ## 🎬 演示视频
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=qS2MCh3Sc5g">
-    <img src="https://img.youtube.com/vi/abcabc/maxresdefault.jpg" 
-         alt="M的电子书制作工具演示视频" 
-         width="600" 
-         style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  </a>
-  <br>
-  <br>
-  <a href="https://www.youtube.com/watch?v=abcabc">
-    <img src="https://img.shields.io/badge/▶️_观看演示视频-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="观看演示视频">
-  </a>
+
+[![M的电子书制作工具演示](https://img.youtube.com/vi/qS2MCh3Sc5g/0.jpg)](https://www.youtube.com/watch?v=qS2MCh3Sc5g "点击观看演示视频")
+
+*点击上方图片观看完整功能演示*
+
 </div>
 
-> **提示**：点击上方图片或按钮观看完整的功能演示视频，了解如何使用这个工具快速制作电子书。
+或者直接观看嵌入视频：
+
+<div align="center">
+
+https://user-images.githubusercontent.com/yourusername/video-preview.mp4
+
+</div>
+
+> **💡 提示**：视频展示了从截屏设置到PDF生成的完整流程，建议先观看以快速了解工具使用方法。
 
 ---
+
 
 ## 📖 项目简介
 
